@@ -4,7 +4,7 @@ AR Sailing Game
 
 Creator: Kewei Sui
 
-Video:
+Video: https://youtu.be/7JOuaMqSyCw
 
 
 
